@@ -5,3 +5,5 @@ This library supports weekday alarms for the DS1307 chip. The alarms that are se
 
 An nice hardware circuit instructable for connecting a DS1307 real time clock chip to your microcontroller can be found at: 
 http://www.instructables.com/id/Arduino-Real-Time-Clock-DS1307/
+
+The library name comes from the original "DS1307new" library with Alarms added.
